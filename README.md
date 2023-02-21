@@ -1,2 +1,0 @@
-# OpenclassroomsProject
-Cours openclassroom test
